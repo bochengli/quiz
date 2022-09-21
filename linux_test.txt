@@ -1,0 +1,283 @@
+Question
+下列哪个可以被用来进入命令行？
+===
+A. Xargs
+B. Firefox
+C. Terminal
+D. BIOS
+Answer
+C
+
+Question
+以下哪个命令可以用来创建一个文件？
+===
+A. mkfile
+B. touch
+C. mkdir
+D. nico
+Answer
+B
+
+Question
+被称为什么的数字是用来识别一个进程的？
+===
+A. PIN
+B. UID
+C. PID
+D. Process Entry
+E. None of the above
+Answer
+C
+
+Question
+以下移动操作系统中，哪个是基于Linux的操作系统？
+===
+A. Android
+B. iOS
+C. Windows Phone
+D. CentOS
+Answer
+A
+
+Question
+Shell 有哪些功能？
+===
+A. 它负责建立与另一台计算机的连接
+B. 提供图形化环境
+C. 接受用户命令并执行
+D. 负责将用户登录进系统
+Answer
+C
+
+Question
+你会用哪条命令来获取关于 Linux 中任何命令的文档？
+===
+A. Locate command
+B. Get command
+C. Man command
+D. Echo command
+E. Help command
+Answer
+C
+
+Question
+Ubuntu Linux 基于下面哪个 Linux 发行版？
+===
+A. Arch Linux
+B. Red Hat Linux
+C. Debian Linux
+D. SUSE Linux
+E. Gentoo Linux
+Answer
+C
+
+Question
+BIOS 的位置在哪里？
+===
+A. RAM
+B. 主板
+C. 硬盘
+D. CPU
+E. 显示器
+Answer
+B
+
+Question
+以下哪个命令可以用来从一个tar文件中提取内容？
+===
+A. tar -c
+B. tar -e
+C. tar -vf
+D. tar -v
+E. tar -xvf
+Answer
+E
+
+Question
+以下哪个命令可以用来从存档（archive）中提取文件？
+===
+A. tar -evf
+B. tar -xvf
+C. tar -e
+D. tar -v
+E. tar -vf
+Answer
+B
+
+Question
+以下哪个是用于传输数字数据的音频/视频组合接口？
+===
+A. VGA
+B. HDMI
+C. DVI
+D. ATI
+E. DVD
+Answer
+B
+
+Question
+安装新应用程序的首选来源是什么？
+===
+A. 一个零售商店
+B. 供应商的版本管理系统
+C. 一张CD-ROM光盘
+D. 发行版的软件包库
+E. 供应商的网站
+Answer
+D
+
+Question
+以下哪种硬件设备将一些计算机连接在一起，形成一个以太网局域网？
+===
+A. Server
+B. Switch
+C. Terminal
+D. Connecter
+E. Access Point
+Answer
+B
+
+Question
+当一个新的用户被添加时，用户的ID会被存储在哪里？
+===
+A. /etc/shpasswd
+B. /etc/pass
+C. /etc/users
+D. /etc/passwd
+E. /etc/realm
+Answer
+D   
+
+Question
+以下哪个命令是用来查询系统的当前IP地址的？
+===
+A. ifconfig
+B. ipconfig
+C. showip
+D. sysinfo | grep ipaddress
+Answer
+A
+
+Question
+一个文件的三组权限是什么？
+===
+A. Administrator, User, and Group
+B. User, Group, and Others
+C. Administrator, standard user, and others
+D. User, standard User, others
+E. None of the above
+Answer
+B
+
+Question
+以下哪个命令可以显示当前目录下所有文件的列表，包括那些可能被隐藏的文件？
+===
+A. ls --a
+B. ls -h
+C. ls -a
+D. ls --hidden
+Answer
+C
+
+Question
+关于用户和用户组的哪个说法是正确的？
+===
+A. 一个系统中只能有一个用户组
+B. 一个组只能有一个主要用户(main user)
+C. 用户不一定要属于一个用户组
+D. 每个用户至少属于一个用户组
+Answer
+D
+
+Question
+如果除非特别要求，否则ls等命令不应显示文件或目录名，那么文件或目录名的第一个字符是什么？
+===
+A. .
+B. -
+C. \
+D. _
+Answer
+A
+
+Question
+哪条命令列出了当前目录中以大写字母开头的所有文件？
+===
+A. ls A-Z*
+B. ls A-Z
+C. ls --upercasefiles
+D. ls -uppercase-files
+E. ls [A-Z]*
+Answer
+E
+
+Question
+在删除所有以字母 a 开头的文件时，还剩下Access.txt这个文件。假设它有正确的所有权，为什么它没有被删除？
+===
+A. Access.txt 被隐藏了
+B. Linux 文件名是大小写敏感的
+C. 文件 Access.txt 可能已被另一个应用程序打开
+D. 带有扩展名的文件需要不同的处理
+Answer
+B
+
+Question
+以下关于Linux密码的说法哪一个是真的？
+===
+A. Linux 密码只以加密形式存储
+B. 设置密码后，用户无法更改密码
+C. 所有密码都可以使用系统管理员的主密码解密
+D. 密码可能永远不会以非字母开头
+E. 密码长度最多为六个字符
+Answer
+A
+
+Question
+什么命令可以显示系统启动时的信息？
+===
+A. echo
+B. dmesg
+C. Display system boot
+D. lspci
+E. messages
+Answer
+B
+
+Question
+哪条命令将显示文件foo.txt的最后一行？
+===
+A. head -n foo.txt
+B. tail foo.txt
+C. last -n 1 foo.txt
+D. tail -n 1 foo.txt
+Answer
+D
+
+Question
+哪个命令为特定的Linux命令提供帮助？
+===
+A. Whatdoes
+B. ask
+C. helpme
+D. man
+Answer
+D
+
+Question
+以下哪种文件系统是最常用于Linux发行版的？
+===
+A. NTFS
+B. HFS+
+C. EXT4
+D. FAT32
+Answer
+C
+
+Question
+以下哪个Linux发行版使用dpkg软件包管理系统？
+===
+A. Ubuntu
+B. Red Hat
+C. Mandriva
+D. SUSE
+Answer
+A
